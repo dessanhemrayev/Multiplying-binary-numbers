@@ -1,0 +1,9 @@
+D:\projects\github\lab2_EWM\laba2\bin\Release\laba2.exe.config
+D:\projects\github\lab2_EWM\laba2\bin\Release\laba2.exe
+D:\projects\github\lab2_EWM\laba2\bin\Release\laba2.pdb
+D:\projects\github\lab2_EWM\laba2\obj\Release\laba2.Form1.resources
+D:\projects\github\lab2_EWM\laba2\obj\Release\laba2.Properties.Resources.resources
+D:\projects\github\lab2_EWM\laba2\obj\Release\laba2.csproj.GenerateResource.cache
+D:\projects\github\lab2_EWM\laba2\obj\Release\laba2.exe
+D:\projects\github\lab2_EWM\laba2\obj\Release\laba2.pdb
+D:\projects\github\lab2_EWM\laba2\obj\Release\laba2.csprojAssemblyReference.cache
